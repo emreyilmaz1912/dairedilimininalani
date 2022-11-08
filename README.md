@@ -1,2 +1,3 @@
 # dairedilimininalani
-Daire Diliminin Alanını Hesaplamak
+
+JavaPatikası | Daire Diliminin Alanını Hesaplamak
